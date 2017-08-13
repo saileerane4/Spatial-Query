@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>Portland Place</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282480,34.032731</coordinates></Point>
+</Placemark>
+<Placemark><name>Vermont Jeff</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291384,34.025354</coordinates></Point>
+</Placemark>
+<Placemark><name>Expo Vermont</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291403,34.018425</coordinates></Point>
+</Placemark>
+<Placemark><name>Jeff Figueroa</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.280185,34.021888</coordinates></Point>
+</Placemark>
+<Placemark><name>Expo Figueroa</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282379,34.018433</coordinates></Point>
+</Placemark>
+<Placemark><name>Doheny Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283920,34.020237</coordinates></Point>
+</Placemark>
+<Placemark><name>Biegler Hall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288565,34.020566</coordinates></Point>
+</Placemark>
+<Placemark><name>Psychology Dept</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288974,34.021502</coordinates></Point>
+</Placemark>
+<Placemark><name>Cinematic School</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287058,34.023470</coordinates></Point>
+</Placemark>
+</Document></kml>
